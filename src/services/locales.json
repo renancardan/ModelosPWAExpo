@@ -1,0 +1,26 @@
+{
+    "MONTHS": {
+        "JANUARY": "JANEIRO",
+        "FEBRUARY": "FERVEREIRO",
+        "MARCH": "MARÇO",
+        "APRIL": "ABRIL",
+        "MAY": "MAIO",
+        "JUNE": "JUNHO",
+        "JULY": "JULHO",
+        "AUGUST": "AGOSTO",
+        "SEPTEMBER": "SETEMBRO",
+        "OCTOBER": "OUTUBRO",
+        "NOVEMBER": "NOVEMBRO",
+        "DECEMBER": "DEZEMBRO"
+    },
+    "DAYS": {
+        "MONDAY": "SEGUNDA",
+        "TUESDAY": "TERÇA",
+        "WEDNESDAY": "QUARTA",
+        "THURSDAY": "QUINTA",
+        "FRIDAY": "SEXTA",
+        "SATURDAY": "SABADO",
+        "SUNDAY": "DOMINGO"
+
+    }
+}

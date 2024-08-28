@@ -1,0 +1,5 @@
+# Redirects from what the browser requests to what we serve
+/links/:id/* https://apostacentral.netlify.app/:splat 200
+/indicacao/:id/* https://apostacentral.netlify.app/:splat 200
+/boleto/:id/* https://apostacentral.netlify.app/:splat 200
+/apostas/:id/* https://apostacentral.netlify.app/:splat 200
